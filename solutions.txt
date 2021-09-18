@@ -4,54 +4,111 @@ De plus, il est interessant de demander à son entourage de pousser au partage d
 
 
 
+Ensuite, le sportif peut développer un flyer qui deviendra sa vitrine au près des sponsors.
+N'hésitez pas à faire une version papier ainsi qu'une version numérique afin de toucher le plus de sponsors possible.
+Le flyer doit contenir : 
+	- Une présentation du sportif et du sport en question;
+	- Présentez votre palmarès (si vous en avez un);
+	- Les objectifs de cette démarche : la recherche de sponsors ainsi que l'objectif économique;
+	- Une partie contact, avec l'ensemble de vos coordonnées;
+	- Le tout dans un ensemble de 3 ou 4 pages.
+
+
+
+
 L'utilisation des RS cette décennie est devenu primordiale, il est donc necessaire qu'un sportif sache tenir ses réseaux sociaux et les actualiser.
-Cela permet au personnes interessées d'être en immersion dans sa vie sportive.
+Cela permet au personnes interessées d'être immergé dans sa vie sportive.
 En effet, une bonne tenue de ces réseaux sociaux signifie :
-	- de belles phrases d'accroche, ni trop longues ni trop courtes, 
-	- des photos de bonne qualité,
-	- ne pas hésiter à poster des vidéos,
-	- une regularité de post,
-	- ne jamais prendre position, rester neutre,
-	- évoquer l'actualité du sportif, quelle soit positive ou négative.
+	- de belles phrases d'accroche, ni trop longues ni trop courtes, synthétisez un maximimum, allez droit au but;
+	- des photos de bonne qualité;
+	- favorisez un visuel épuré et simple;
+	- ne pas hésiter à poster des vidéos;
+	- une regularité de post (minimum 1/2 post par semaine si actu il y a);
+	- ne jamais prendre position, rester neutre;
+	- n'hésitez pas utiliser les # hashtags, afin d'obtenir une visibilité de post plus conséquente;
+	- éviter de faire des posts indentiques entre les différents réseaux;
+	- évoquer l'actualité du sportif, quelle soit positive ou négative;
+	- Parler à la premiere personne;
+	- Vérifier les heures d’affluences de vues pour chaque outil (LinkdIn, Instagram, facebook...) -> France : entre midi et 14h et le soir après 17h;
+	- Vérifier les fautes d’orthographe/lourdeur de phrase;
+	- Alimenter RS lors d'événement sportif.
 
 
 
 
 
-Pour la recherche de sponsors, une des démarches possible est le dossier de sponsoring. Cette démarche consiste a décrire sur un support papier les besoins du sportif, mais aussi son buts, son parcours, éventuellement son palmares.
+Pour la recherche de sponsors, une des démarches possibles est le dossier de sponsoring. Cette démarche est une version amélioré du flyer. Cette démarche consiste a décrire sur un support papier les besoins du sportif, mais aussi son buts, son parcours, éventuellement son palmares.
+
 Généralement divisé en 7 parties, on retrouve :
+
 	1 - Une page de garde, qui vous servira de vitrine, donc essayer de donner envie aux sponsors de lire votre dossier en utilisant :
-		- une belle image de bonne qualité , 
-		- ainsi qu'un titre allant à l'essentiel, 
-		- la présence de votre logo si vous en possédez un,
+		- une belle image de bonne qualité;
+		- ainsi qu'un titre allant à l'essentiel;
+		- la présence de votre logo si vous en possédez un;
 		- ainsi qu'une date si cela fait référence a votre projet.
 	
 	2 - Une page de présentation de vous ou de votre équipe :
-		- explication de qui vous êtes
-		- description de vos compétences
-		- votre role au sein de ce projet
+		- explication de qui vous êtes;
+		- description de vos compétences;
+		- votre role au sein de ce projet;
 		- les raisons qui vous pousse à la création de ce projet.
 
 	3 - Une page de présentation de votre projet : 
-		- Aborder les origines de votre projet, 
-		- vos objectifs, 
-		- une description détaillé du projet avec indication de date si cela doit être spécifié,
+		- Aborder les origines de votre projet;
+		- vos objectifs;
+		- une description détaillé du projet avec indication de date si cela doit être spécifié.
 
 	4 - Une page expliquant pourquoi des sponsors devraient vous soutenir :
-		- Montrer en quoi le projet que vous êtes en train de monter, sera bénéfique pour les sponsors, 
-		- présentez qui sera la cible de ce projet,
-		- N'hésitez pas a dévoiler votre stratégie de communication, 
+		- Montrer en quoi le projet que vous êtes en train de monter, sera bénéfique pour les sponsors;
+		- présentez qui sera la cible de ce projet;
+		- N'hésitez pas a dévoiler votre stratégie de communication.
 
 	5 - Une page consacrée aux sponsors :
-		- Précision concernant l'aide attendue, si elle est financière, matérielle.. etc
+		- Précision concernant l'aide attendue, si elle est financière, matérielle.. etc;
 		- Détaillez chaque offres, mais surtout ce dont le sponsor profite.
 
 	6 - Une page budget :
 		- Précision/détails concernant les besoins matériels et/ou financier.
 
 	7 - Une page contact :
-		- Présentez vos coordonnées
+		- Présentez vos coordonnées;
 		- Présenter les logos des partenaires que vous possedez déjà, si c'est le cas.
-		
 
-Enfin, il est parfois conseillé d'avoir son propre site web, son propre support.
+
+
+Enfin, le sportif peux créer son support personnel afin d'obtenir encore plus de visibilité. Effectivement, il peut créer un site internet consacré à sa personne, en s'inspirant de ceux des grands sportifs.
+Tout de même, il est conseillé d'utiliser ce support, si le sportif possède déjà une fan base, un palmarès et ses sponsors.
+La composition du site est la suivante : 
+	- Une présentation du sportif et du sport en question;
+	- Présentez votre palmarès (si vous en avez un);
+	- Une partie contact, avec l'ensemble de vos coordonnées;
+	- Alimenter contenu : actualités, compétitions (même régularité que l'alimentation sur les réseaux sociaux);
+	- Sponsors si vous en avez déjà;
+	- Viser une esthétique très épurée et très simple, mais en suivant tout de même les tendances actuelles;
+	- Éventuellement un merch, si vous le souhaitez.
+	- Implémenter des balises "meta" dans l'HTML afin d'obtenir un meilleur référencement.
+
+
+A l'ère des RS, les sites internet tendent vers une dépréciation, il n'est donc plus nécéssaire de posséder son propre support.
+Même si un site web reste le support le plus complet et le plus personnel, sa création est chronophage et demande un investissement économique (designers, dev, attaché de com, cm...) et personnel. 
+
+Si le sportif veut tout de même en créer un, il peut aussi se diriger vers des associations, des agence web, ou encore des outils tel que Wordpress.
+Ces solutions ont un coût mais moindre que si le sportif devait créer le site de son propre chef.
+adaptatif, le support le plus personnel possible(polution), accessible a tous et a ton instant .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

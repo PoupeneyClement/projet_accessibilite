@@ -86,14 +86,17 @@ La composition du site est la suivante :
 	- Sponsors si vous en avez déjà;
 	- Viser une esthétique très épurée et très simple, mais en suivant tout de même les tendances actuelles;
 	- Éventuellement un merch, si vous le souhaitez.
-	- Implémenter des balises "meta" dans l'HTML afin d'obtenir un meilleur référencement.
+
+Les conseils pour l'aspect techniques :
+	- Implémenter des balises "meta" dans l'HTML afin d'obtenir un meilleur référencement;
+	- Utiliser des balises propres à l'accessibilité afin que votre site soit le plus accessible possible.
 
 
 A l'ère des RS, les sites internet tendent vers une dépréciation, il n'est donc plus nécéssaire de posséder son propre support.
 Même si un site web reste le support le plus complet et le plus personnel, sa création est chronophage et demande un investissement économique (designers, dev, attaché de com, cm...) et personnel. 
 Adaptatif et accessible à tous, il reste un des supports les plus personnel possible, du fait de sa singularité et de l'absence de pollution numérique.
 Si le sportif veut tout de même en créer un, il peut aussi se diriger vers des associations, des agence web, ou encore des outils tel que Wordpress.
-Ces solutions ont un coût mais moindre que si le sportif devait créer le site de son propre chef.
+Ces solutions ont un coût mais moindre que si le sportif devait créer entièrement le site de son propre chef.
 
 
 

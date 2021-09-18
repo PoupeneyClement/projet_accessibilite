@@ -89,7 +89,8 @@ La composition du site est la suivante :
 
 Les conseils pour l'aspect techniques :
 	- Implémenter des balises "meta" dans l'HTML afin d'obtenir un meilleur référencement;
-	- Utiliser des balises propres à l'accessibilité afin que votre site soit le plus accessible possible.
+	- Utiliser des balises propres à l'accessibilité afin que votre site soit le plus accessible possible;
+	- Si vous utilisez un outil tel que Wordpress, n'hésitez pas à suivre des tutoriels sur Youtube (disponible gratuitement dans de nombreuses langues), afin de perfectionner votre intégration.
 
 
 A l'ère des RS, les sites internet tendent vers une dépréciation, il n'est donc plus nécéssaire de posséder son propre support.

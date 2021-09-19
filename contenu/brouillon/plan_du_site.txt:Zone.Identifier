@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=vscode-file://vscode-app/c:/Users/acsBesac/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/workbench/workbench.html
+HostUrl=file://wsl%24/Ubuntu-20.04/var/www/html/projet_accessibilite/plan_du_site.txt
